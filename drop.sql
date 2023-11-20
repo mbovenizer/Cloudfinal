@@ -1,0 +1,2 @@
+-- 
+-- DROP TABLE if exists statistics_table;
